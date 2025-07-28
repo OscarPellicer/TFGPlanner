@@ -180,7 +180,7 @@ Para mantener una infraestructura sencilla, se propone una arquitectura 100% Pyt
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/OscarPellicer/TFGPlanner.git
+git git@github.com:OscarPellicer/TFGPlanner.git
 
 # Crear un entorno virtual e instalar dependencias
 cd TFGPlanner
